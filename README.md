@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gilson Júnio Pacheco Silva
+Matricula: 609789
 
 ## Tela de inspeção com navegador
-
+![alt text](cento-e-oitenta-e-quatro-solicitacoes.PNG)
 
 ## Tela de projeto no Replit
-
+![alt text](pagina_no_replit.PNG)
